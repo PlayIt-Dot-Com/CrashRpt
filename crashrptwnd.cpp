@@ -1,8 +1,8 @@
 /*
  * =====================================================================
  *
- *			XAGE CrashRpt
- *			Copyright XPX Corporation, all rights reserved.
+ *			CrashRpt
+ *			Copyright Amlal El Mahrouss, all rights reserved.
  *
  * =====================================================================
  */
